@@ -10,10 +10,8 @@
 2. [Features](#features)
 3. [Technology Stack](#technology-stack)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Ethical Considerations](#ethical-considerations)
-7. [License](#license)
-8. [Acknowledgements](#acknowledgements)
+
+
 
 ---
 

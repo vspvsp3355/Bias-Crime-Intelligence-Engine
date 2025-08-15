@@ -86,5 +86,5 @@ It leverages **ensemble methods** (Random Forest, LightGBM) alongside **temporal
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bias-crime-intelligence-engine.git
-cd bias-crime-intelligence-engine
+git clone https://github.com/vspvsp3355/Bias-Crime-Intelligence-Engine
+cd Bias-Crime-Intelligence-Engine

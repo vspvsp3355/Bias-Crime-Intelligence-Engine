@@ -1,9 +1,7 @@
 # Bias Crime Intelligence Engine: Predicting, Mapping, and Classifying Hate Crimes Using Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/bias-crime-intelligence-engine)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/bias-crime-intelligence-engine)
+
 
 ---
 
